@@ -1,2 +1,3 @@
 # hello-world
-Short GitHub introduction.
+Hello. I am a computer science student.
+This is my senior year.
